@@ -1,0 +1,15 @@
+.layoutContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.layoutCard {
+    width: 400px;
+    height: 50%;
+    background-color: white;
+    box-shadow: 0 2px 8px 0 rgba(189, 189, 189, 0.75);
+    padding: 12px;
+}
